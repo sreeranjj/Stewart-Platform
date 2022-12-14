@@ -1,0 +1,16 @@
+leg_length=32.02;%cm
+rbase=20;       %cm
+rplat=10;       %cm
+gammaplat=8;    %degrees
+gammabase=20;   %degrees
+servoarm=4.5;     %corresponding to 3.5cm
+Xamp=0;
+Yamp=0;
+Zamp=0;
+Phiamp=0;
+Thetaamp=10;
+Psiamp=10;
+kp_z=300;
+kp_z_rate=100;
+ki_z_rate=1000;
+kd_z_rate=0;
